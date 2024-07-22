@@ -1,0 +1,5 @@
+langchain
+langchain-google-genai
+huggingface-hub
+python = 3.12.4
+streamlit
